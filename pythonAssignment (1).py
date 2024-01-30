@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[22]:
-
+# python project to github
 
 def studentName():
     
