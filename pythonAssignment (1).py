@@ -53,10 +53,6 @@ def feetToMile():#function used to calculate the number of feet in the given mil
 
 feetToMile()#calling the function
 
-
-# In[ ]:
-
-
 """
 Q2 Write a Python statement that calculates and 
 prints the number of seconds in 7 hours, 21 minutes and 37 seconds.
@@ -79,9 +75,6 @@ def toSecondFunction():#function used to change the hour, minute and second to s
     
 
 toSecondFunction()#calling the function
-
-
-# In[4]:
 
 
 """ 
@@ -136,10 +129,6 @@ def calculateCircumference():#function used to calculate the circumference of th
 
 
 calculateCircumference() #function calling
-
-
-# In[8]:
-
 
 """  
 Q5 Given p dollars, the future value of this money when compounded
